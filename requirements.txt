@@ -1,0 +1,7 @@
+openai==0.28
+pandas>=1.5.3
+flask>=2.0.0
+streamlit>=1.25.0
+requests>=2.0.0
+python-dotenv>=1.0.0
+numpy>=1.23.0
